@@ -11,6 +11,4 @@
    ```bash
    pip install requests
 
-    Запустите скрипт:
-python discord_message_analyzer.py
-``` 
+   Запустите скрипт: python discord_message_analyzer.py
